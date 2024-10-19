@@ -1,0 +1,19 @@
+{
+    "INTJ": ["Chill Out - Abstract Hip Hop", "Cinematic - Instrumental"],
+    "INFP": ["Acoustic - Folk", "Indie Pop"],
+    "ENTP": ["Alternative Rock", "Electronic"],
+    "ESFJ": ["Pop", "Mainstream R&B"],
+    "ISTJ": ["Classical", "Jazz"],
+    "ENFP": ["Indie Folk", "Upbeat Pop"],
+    "ISFJ": ["Soft Rock", "Acoustic Ballads"],
+    "ESTJ": ["Classic Rock", "Motown"],
+    "ISFP": ["Lo-fi", "Ambient"],
+    "ESTP": ["Hip Hop", "Dance"],
+    "ENTJ": ["Symphonic Metal", "High-energy Electronic"],
+    "INTP": ["Progressive Rock", "Experimental"],
+    "ESFP": ["Party Music", "Dance Pop"],
+    "INFJ": ["Piano Solo", "Nature Sounds"],
+    "ENFJ": ["Feel-Good Music", "Motivational Pop"],
+    "ISTP": ["Rock Instrumentals", "Electronic Fusion"],
+    "ISFJ": ["Classical Piano", "Mellow Jazz"]
+}
